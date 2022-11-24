@@ -1,0 +1,2 @@
+Pagina creada con Vite, la cual consume una api de la web para listar personajes de Rick y Morty, con muy poco estilos
+
